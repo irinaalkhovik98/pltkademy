@@ -1,0 +1,6 @@
+hostname irina
+CPU - 4
+MemTotal:        3912884 kB
+MemFree:          340632 kB
+MemAvailable:     786536 kB
+Total Disk Size - 500 GB
